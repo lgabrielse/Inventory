@@ -8,5 +8,7 @@
 <body>
 <h1><strong>Page 2
 </strong></h1>
+
+<p>Added to page 2</p>
 </body>
 </html>
