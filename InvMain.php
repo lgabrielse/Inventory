@@ -8,6 +8,7 @@
 <body>
 <div class="main">
   <h2>Inventory Main for BMC</h2>
+  <h2>Inventory Main for BMC - test diff</h2>
 </div>
 </body>
 </html>
