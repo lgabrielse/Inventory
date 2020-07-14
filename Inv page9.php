@@ -2,14 +2,13 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>InvMain</title>
+<title>page9</title>
 </head>
 
 <body>
-<div class="main">
-  <h2>Inventory Main for BMC</h2>
-  <h2>Inventory Main for BMC - test diff</h2>
-  <h2>Page 9 added</h2>
-</div>
+<h1>&nbsp;page 4 </h1>
+<h1>&nbsp;page 4 update </h1>
+<h1>&nbsp;page 4 update 2</h1>
+<h1>&nbsp;copied from page 4</h1>
 </body>
 </html>
